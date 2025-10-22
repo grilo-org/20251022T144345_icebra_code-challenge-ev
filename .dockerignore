@@ -1,0 +1,11 @@
+*
+!build/*-runner
+!build/*-runner.jar
+!build/lib/*
+!build/quarkus-app/*
+!target/*-runner
+!target/*-runner.jar
+!target/lib/*
+*/temp*
+*/*/temp*
+temp?
